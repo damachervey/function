@@ -8,7 +8,8 @@ double multiplyoradd(bool a, double b, double c) {
 	{
 		return b + c;
 	}
-	else {
+	else (a == false)
+	{
 		return b * c;
 	}
 	return 0;
