@@ -1,0 +1,16 @@
+/*
+#include <iostream>
+#include "Header.h"
+using namespace std;
+double multiplyoradd(bool a, double b, double c) {
+
+	if (a == true)
+	{
+		return b + c;
+	}
+	else {
+		return b * c;
+	}
+	return 0;
+}
+*/
