@@ -1,0 +1,16 @@
+/*
+#include <iostream>
+#include "Header.h"
+using namespace std;
+
+int main()
+{
+	double b;
+	cin >> b;
+	double c;
+	cin >> c;
+	double sum = multiplyoradd(b, c, true);
+	cout << sum << endl;
+	return 0;
+}
+*/
