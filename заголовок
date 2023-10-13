@@ -1,0 +1,4 @@
+/*
+#pragma once
+double multiplyoradd(bool a, double b, double c);
+*/
